@@ -1,0 +1,13 @@
+user-service
+    port 9001
+
+/user/{userid} -- endpoint
+
+contact-service
+    port 9002
+
+Eureka-Server
+    port 8761
+
+ApiGateway
+    port 8999
